@@ -308,6 +308,8 @@ text-align: center; font-size: 30px;}
     .creww{background-image: url(./assets/crew/background-crew-desktop.jpg);}
     .techn{background-image: url(./assets/technology/background-technology-desktop.jpg);}
     .mainb{height: 100%;}
+    .page{height:100vh;}
+
 
 .bomidde{
     color:antiquewhite;
