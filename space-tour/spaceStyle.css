@@ -183,7 +183,7 @@ text-align: center; font-size: 20px;}
     .destina{ background-image: url(./assets/destination/background-destination-tablet.jpg);}
     .creww{background-image: url(./assets/crew/background-crew-tablet.jpg);}
     .techn{background-image: url(./assets/technology/background-technology-tablet.jpg);}
-    .mainb{height: 100%;}
+    .mainb{height: 100vh + 100%;}
 
     .nav-bar{
         display: flex;
